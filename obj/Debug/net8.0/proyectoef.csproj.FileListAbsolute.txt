@@ -66,3 +66,4 @@ C:\Users\javie\platzi\proyectoef\obj\Debug\net8.0\proyectoef.genruntimeconfig.ca
 C:\Users\javie\platzi\proyectoef\obj\Debug\net8.0\ref\proyectoef.dll
 C:\Users\javie\platzi\proyectoef\bin\Debug\net8.0\Npgsql.dll
 C:\Users\javie\platzi\proyectoef\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\javie\platzi\proyectoef\obj\Debug\net8.0\proyectoef.sourcelink.json
