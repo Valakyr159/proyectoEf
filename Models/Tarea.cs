@@ -23,7 +23,7 @@ public class Tarea
 
   public virtual Categoria Categoria {get;set;}
 
-    public string Resumen {get;set;}
+  public string Resumen {get;set;}
 
 }
 
